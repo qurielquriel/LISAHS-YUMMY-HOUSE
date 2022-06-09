@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Photography-Website-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "LISAH-main"
+	}
+}
