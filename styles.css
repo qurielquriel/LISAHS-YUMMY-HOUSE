@@ -42,7 +42,7 @@ h1 {
     color: yellow;
 }
 header {
-    height: 490px;
+    height: 90px;
     padding: 15%;
     background-color: yellow;
     width: initial;
@@ -67,7 +67,7 @@ header a {
     font-weight: 500;
 }
 h1 {
-    padding-bottom: 30px;
+    padding-bottom: 300px;
 }
 ul {
     padding-bottom: 20px;
